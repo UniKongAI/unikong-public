@@ -10,10 +10,10 @@ Whim ialah aplikasi pemesejan selamat untuk pasukan anda. Halaman ini ialah temp
 
 Kebanyakan orang hanya perlukan pemasang ini:
 
-### ▶ [Muat Turun Whim untuk Windows](https://github.com/UniKongAI/whim-public/releases/latest/download/whim-setup.exe)
+### ▶ [Muat Turun Whim untuk Windows](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
 > **Menggunakan komputer kerja yang diuruskan oleh pasukan IT?** Mereka mungkin lebih suka
-> [versi berpakej (.msi)](https://github.com/UniKongAI/whim-public/releases/latest/download/whim.msi)
+> [versi berpakej (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
 > untuk pemasangan di seluruh syarikat.
 
 ## Langkah 2 — Pasang

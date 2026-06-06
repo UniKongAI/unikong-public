@@ -10,10 +10,10 @@ Whim is your team's secure messaging app. This page is where you download and in
 
 Most people just need the installer:
 
-### ▶ [Download Whim for Windows](https://github.com/UniKongAI/whim-public/releases/latest/download/whim-setup.exe)
+### ▶ [Download Whim for Windows](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
 > **On a work computer managed by an IT team?** They may prefer the
-> [packaged version (.msi)](https://github.com/UniKongAI/whim-public/releases/latest/download/whim.msi)
+> [packaged version (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
 > for installing across the whole company.
 
 ## Step 2 — Install

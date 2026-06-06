@@ -10,10 +10,10 @@ Whim ແມ່ນແອັບສົ່ງຂໍ້ຄວາມທີ່ປອດ
 
 ສ່ວນຫຼາຍຄົນພຽງແຕ່ຕ້ອງການຕົວຕິດຕັ້ງເທົ່ານັ້ນ:
 
-### ▶ [ດາວໂຫຼດ Whim ສຳລັບ Windows](https://github.com/UniKongAI/whim-public/releases/latest/download/whim-setup.exe)
+### ▶ [ດາວໂຫຼດ Whim ສຳລັບ Windows](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
 > **ໃຊ້ຄອມພິວເຕີຂອງບ່ອນເຮັດວຽກທີ່ມີທີມ IT ດູແລບໍ?** ເຂົາເຈົ້າອາດຈະມັກ
-> [ສະບັບແພັກເກັດ (.msi)](https://github.com/UniKongAI/whim-public/releases/latest/download/whim.msi)
+> [ສະບັບແພັກເກັດ (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
 > ສຳລັບການຕິດຕັ້ງໃຫ້ທົ່ວທັງບໍລິສັດ.
 
 ## ຂັ້ນຕອນທີ 2 — ຕິດຕັ້ງ

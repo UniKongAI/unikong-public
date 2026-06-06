@@ -10,10 +10,10 @@ Whim là ứng dụng nhắn tin bảo mật của nhóm bạn. Trang này là n
 
 Hầu hết mọi người chỉ cần tệp cài đặt:
 
-### ▶ [Tải Whim cho Windows](https://github.com/UniKongAI/whim-public/releases/latest/download/whim-setup.exe)
+### ▶ [Tải Whim cho Windows](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
 > **Đang dùng máy tính công ty do bộ phận IT quản lý?** Họ có thể thích
-> [phiên bản đóng gói (.msi)](https://github.com/UniKongAI/whim-public/releases/latest/download/whim.msi)
+> [phiên bản đóng gói (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
 > hơn để cài đặt cho toàn công ty.
 
 ## Bước 2 — Cài đặt

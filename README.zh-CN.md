@@ -10,10 +10,10 @@ Whim 是您团队的安全通讯应用。在这个页面，您可以把它下载
 
 大多数人只需要这个安装程序：
 
-### ▶ [下载 Windows 版 Whim](https://github.com/UniKongAI/whim-public/releases/latest/download/whim-setup.exe)
+### ▶ [下载 Windows 版 Whim](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
 > **在由 IT 团队管理的办公电脑上使用？** 他们可能更倾向于使用
-> [打包版本（.msi）](https://github.com/UniKongAI/whim-public/releases/latest/download/whim.msi)
+> [打包版本（.msi）](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
 > 在整个公司范围内统一安装。
 
 ## 第 2 步 — 安装

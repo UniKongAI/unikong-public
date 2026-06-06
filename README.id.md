@@ -10,10 +10,10 @@ Whim adalah aplikasi pesan yang aman untuk tim Anda. Di halaman ini Anda bisa me
 
 Sebagian besar orang hanya perlu pemasang ini:
 
-### ▶ [Unduh Whim untuk Windows](https://github.com/UniKongAI/whim-public/releases/latest/download/whim-setup.exe)
+### ▶ [Unduh Whim untuk Windows](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
 > **Memakai komputer kantor yang dikelola tim IT?** Mereka mungkin lebih suka
-> [versi paket (.msi)](https://github.com/UniKongAI/whim-public/releases/latest/download/whim.msi)
+> [versi paket (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
 > untuk memasangnya ke seluruh perusahaan.
 
 ## Langkah 2 — Pasang

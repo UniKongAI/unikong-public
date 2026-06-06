@@ -10,10 +10,10 @@ Whim คือแอปส่งข้อความที่ปลอดภั
 
 คนส่วนใหญ่ต้องการแค่ตัวติดตั้งนี้เท่านั้น:
 
-### ▶ [ดาวน์โหลด Whim สำหรับ Windows](https://github.com/UniKongAI/whim-public/releases/latest/download/whim-setup.exe)
+### ▶ [ดาวน์โหลด Whim สำหรับ Windows](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
 > **ใช้คอมพิวเตอร์ของที่ทำงานที่มีทีมไอทีดูแลอยู่ใช่ไหม?** พวกเขาอาจจะชอบ
-> [เวอร์ชันแบบแพ็กเกจ (.msi)](https://github.com/UniKongAI/whim-public/releases/latest/download/whim.msi)
+> [เวอร์ชันแบบแพ็กเกจ (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
 > มากกว่า เพราะเอาไว้ติดตั้งให้ทั่วทั้งบริษัทได้
 
 ## ขั้นตอนที่ 2 — ติดตั้ง

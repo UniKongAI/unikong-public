@@ -10,10 +10,10 @@ Whim သည် သင့်အဖွဲ့၏ လုံခြုံသော စ
 
 လူအများစုအတွက် install လုပ်စရာဖိုင် (installer) တစ်ခုသာ လိုအပ်ပါသည်-
 
-### ▶ [Windows အတွက် Whim ကို ဒေါင်းလုဒ်ဆွဲမည်](https://github.com/UniKongAI/whim-public/releases/latest/download/whim-setup.exe)
+### ▶ [Windows အတွက် Whim ကို ဒေါင်းလုဒ်ဆွဲမည်](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
 > **IT အဖွဲ့က စီမံခန့်ခွဲထားသော အလုပ်သုံးကွန်ပျူတာ ဖြစ်ပါသလား။** ၎င်းတို့သည် ကုမ္ပဏီတစ်ခုလုံးတွင် တစ်ပြိုင်နက် ထည့်သွင်းနိုင်ရန်အတွက်
-> [အထုပ်ပြုလုပ်ထားသော ဗားရှင်း (.msi)](https://github.com/UniKongAI/whim-public/releases/latest/download/whim.msi)
+> [အထုပ်ပြုလုပ်ထားသော ဗားရှင်း (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
 > ကို ပိုနှစ်သက်ကောင်း နှစ်သက်ကြပါမည်။
 
 ## အဆင့် ၂ — ထည့်သွင်းခြင်း (Install)

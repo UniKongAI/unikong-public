@@ -10,10 +10,10 @@ Whim は、チームのための安全なメッセージアプリです。この
 
 ほとんどの方は、こちらのインストーラーだけで大丈夫です。
 
-### ▶ [Windows 版 Whim をダウンロード](https://github.com/UniKongAI/whim-public/releases/latest/download/whim-setup.exe)
+### ▶ [Windows 版 Whim をダウンロード](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
 > **IT チームが管理している会社のパソコンをお使いですか？** 会社全体にまとめてインストールするために、IT チームは
-> [パッケージ版（.msi）](https://github.com/UniKongAI/whim-public/releases/latest/download/whim.msi)
+> [パッケージ版（.msi）](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
 > を使いたいと考えるかもしれません。
 
 ## ステップ 2 — インストール
