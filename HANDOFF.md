@@ -91,5 +91,14 @@ a Morgan sync** — it's his shipped feed URL):
 - whim-app installers: `windows/installer/whim.iss` (Inno — has the `WizardSilent`
   + taskkill silent-update fixes) and `whim.wxs` (WiX MSI).
 
+## Working rules
+
+- **unikong-public is NOT an auto-push repo** — commit *and* push only with
+  Steven's explicit approval (only `whim-doc` + `unikong-bridge` auto-push).
+- Same for any cross-repo ref updates this session touches (whim-app especially —
+  its WinSparkle feed URL is Morgan's shipped code; sync with him before pushing).
+- This is a **re-alignment** session: settle the Open decisions above with Steven
+  before mass-editing; surface choices one at a time.
+
 ---
 _Created 2026-06-06 to anchor the unikong-public re-alignment session._
