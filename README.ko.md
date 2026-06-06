@@ -1,46 +1,47 @@
 **🌐**  [English](README.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Filipino](README.fil.md) · [ភាសាខ្មែរ](README.km.md) · [ລາວ](README.lo.md) · [မြန်မာ](README.my.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · **한국어**
 
-# Windows용 Whim
+# Whim 내려받기
 
-Whim은 우리 팀의 안전한 메시징 앱입니다. 이 페이지에서 Windows에 Whim을 내려받아 설치할 수 있습니다.
+Whim은 우리 팀을 위한 안전한 메신저 앱입니다. 아래에서 사용하시는 기기를 골라 내려받으세요.
 
 ---
 
-## 1단계 — 내려받기
-
-대부분의 분들은 설치 파일만 있으면 됩니다:
+## 🪟 Windows
 
 ### ▶ [Windows용 Whim 내려받기](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
-> **IT팀이 관리하는 회사 컴퓨터를 쓰고 계신가요?** IT팀은 회사 전체에 설치하기 위해
-> [패키지 버전(.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
-> 을 더 선호할 수 있습니다.
+> **IT 팀이 관리하는 회사 컴퓨터를 쓰고 계신가요?** 그렇다면 회사 전체에 한꺼번에 설치하기 좋은 [패키지 버전(.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)을 IT 팀이 더 선호할 수 있어요.
 
-## 2단계 — 설치하기
+**설치 방법:** 내려받은 파일을 두 번 클릭하세요. Windows가 파란색 **"Windows에서 PC를 보호했습니다"(Windows protected your PC)** 창을 보여주면, **추가 정보(More info)**를 누른 다음 **실행(Run anyway)**을 누르세요. 권한을 묻는 창이 뜨면 **예(Yes)**를 누른 뒤 안내에 따라 진행하세요 — 설치가 끝나면 Whim이 알아서 열리고, 이후에도 자동으로 최신 상태로 업데이트됩니다.
 
-1. 내려받은 파일을 두 번 클릭하세요.
-2. Windows에서 파란색 **"Windows의 PC 보호(Windows protected your PC)"** 창이 뜨면, **추가 정보(More info)** 를 클릭한 다음 **실행(Run anyway)** 을 클릭하세요. (새로 출시된 앱에서는 정상적으로 나타나는 화면입니다.)
-3. Windows가 권한을 물어보면 **예(Yes)** 를 클릭하세요.
-4. 화면에 나오는 안내를 따라가세요. 설치가 끝나면 Whim이 저절로 열립니다.
+## 🤖 Android
 
-## 3단계 — 로그인하고 시작하기
+### ▶ [Google Play에서 Whim 받기](https://play.google.com/store/apps/details?id=com.unikong.whim)
 
-1. 시작 메뉴(Start menu)나 바탕화면 바로가기에서 **Whim** 을 여세요.
-2. 회사에서 사용하는 계정(회사 이메일 또는 통합 로그인)으로 로그인하세요.
-3. 이게 전부입니다 — 이제 팀과 메시지를 주고받을 준비가 되었습니다.
+Play 스토어(Google Play의 앱 장터)에서 다른 앱을 설치하듯이 그대로 설치하면 됩니다. 업데이트는 Google Play를 통해 자동으로 받게 됩니다.
 
-> **로그인 방법이나 어떤 워크스페이스를 써야 할지 잘 모르시겠나요?** IT 담당자나 사무실 관리자에게 문의하세요.
+## 📱 iPhone & iPad
+
+### ▶ [TestFlight에서 Whim 베타(미리 써보는 버전) 참여하기](https://testflight.apple.com/join/YhQ1yvev)
+
+iPhone과 iPad용 Whim은 Apple의 **TestFlight**(앱을 미리 체험하는 도구)를 통해 제공되는 **베타(미리 써보는 버전)**입니다. 먼저 App Store에서 무료 앱인 **TestFlight**를 설치한 다음, 위 링크를 열어 Whim을 받으세요. 새 버전은 TestFlight를 통해 받게 됩니다.
+
+## 🍎 Mac
+
+### ▶ [TestFlight에서 Whim 베타(미리 써보는 버전) 참여하기](https://testflight.apple.com/join/YhQ1yvev)
+
+Mac용 Whim도 **TestFlight**에서 제공되는 **베타(미리 써보는 버전)**이며 — 링크는 iPhone과 똑같습니다. Mac에 **TestFlight**를 설치하고, 링크를 연 다음 Whim을 설치하세요.
 
 ---
 
-## 항상 최신 상태 유지하기
+## 로그인하기 (모든 기기 공통)
 
-Whim은 자동으로 업데이트됩니다. 앱 안에서 언제든지 직접 확인할 수도 있습니다: **설정 → 업데이트 확인(Settings → Check for updates)**.
+1. **Whim**을 엽니다.
+2. 회사에서 사용하는 계정(회사 이메일 또는 통합 로그인)으로 로그인합니다.
+3. 끝났습니다 — 이제 팀원들과 메시지를 주고받을 준비가 되었습니다.
 
-## Whim 제거하기
-
-Windows의 **설정 → 앱 → 설치된 앱(Settings → Apps → Installed apps)** (또는 **프로그램 추가/제거(Add or remove programs)**)을 열고, **Whim** 을 찾아 **제거(Uninstall)** 를 선택하세요.
+> **로그인 방법이나 어떤 워크스페이스(작업 공간)를 써야 할지 잘 모르시겠나요?** IT 담당자나 사무실 관리자에게 물어보세요.
 
 ## 도움이 필요하신가요?
 
-IT 담당자나 사무실 관리자에게 연락하시거나, **[unikong.ai](https://unikong.ai)** 를 방문하세요.
+IT 담당자나 사무실 관리자에게 문의하시거나 **[unikong.ai](https://unikong.ai)**를 방문하세요.

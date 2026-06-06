@@ -1,46 +1,47 @@
 **🌐**  [English](README.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Filipino](README.fil.md) · [ភាសាខ្មែរ](README.km.md) · [ລາວ](README.lo.md) · [မြန်မာ](README.my.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · **日本語** · [한국어](README.ko.md)
 
-# Windows 版 Whim
+# Whim をダウンロード
 
-Whim は、チームのための安全なメッセージアプリです。このページでは、Whim を Windows にダウンロードしてインストールする方法をご案内します。
-
----
-
-## ステップ 1 — ダウンロード
-
-ほとんどの方は、こちらのインストーラーだけで大丈夫です。
-
-### ▶ [Windows 版 Whim をダウンロード](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
-
-> **IT チームが管理している会社のパソコンをお使いですか？** 会社全体にまとめてインストールするために、IT チームは
-> [パッケージ版（.msi）](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
-> を使いたいと考えるかもしれません。
-
-## ステップ 2 — インストール
-
-1. ダウンロードしたファイルをダブルクリックします。
-2. Windows が青い **「Windows によって PC が保護されました」（Windows protected your PC）** という画面を表示したら、**詳細情報（More info）** をクリックし、次に **実行（Run anyway）** をクリックします。（公開されたばかりのアプリではよくあることなので、ご安心ください。）
-3. Windows が許可を求めてきたら、**はい（Yes）** をクリックします。
-4. 画面の案内に沿って進めてください。完了すると、Whim がひとりでに開きます。
-
-## ステップ 3 — サインインして使い始める
-
-1. スタートメニュー（Start menu）またはデスクトップのショートカットから **Whim** を開きます。
-2. お勤め先で使っているアカウント（仕事用のメールアドレス、またはシングルサインオン）でサインインします。
-3. これで完了です。さあ、チームにメッセージを送りましょう。
-
-> **サインインの方法や、どのワークスペースを使えばよいか分からないときは？** IT 担当者またはオフィスの管理者におたずねください。
+Whim は、あなたのチームのための安全なメッセージアプリです。下からお使いの端末を選んで手に入れてください。
 
 ---
 
-## 常に最新の状態に保つ
+## 🪟 Windows
 
-Whim は自動で最新版に更新されます。アプリの中からいつでも確認することもできます。**設定 → 更新プログラムの確認（Settings → Check for updates）** です。
+### ▶ [Windows 版の Whim をダウンロード](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
-## Whim をアンインストールする
+> **IT チームが管理している会社のパソコンをお使いですか？** 会社全体にインストールする場合は、IT チームは[まとめてインストールできる形式（.msi）](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)のほうを好むかもしれません。
 
-Windows の **設定 → アプリ → インストールされているアプリ（Settings → Apps → Installed apps）**（または **プログラムの追加と削除（Add or remove programs）**）を開き、**Whim** を探して、**アンインストール（Uninstall）** を選びます。
+**インストール方法：** ダウンロードしたファイルをダブルクリックします。Windows が青い **「Windows によって PC が保護されました」（Windows protected your PC）** という画面を表示したら、**「詳細情報」（More info）** をクリックし、続けて **「実行」（Run anyway）** をクリックしてください。許可を求められたら **「はい」（Yes）** をクリックし、あとは画面の手順に従ってください。終わると Whim がひとりでに開きます。更新もすべて自動でおこなわれます。
 
-## お困りですか？
+## 🤖 Android
+
+### ▶ [Google Play で Whim を手に入れる](https://play.google.com/store/apps/details?id=com.unikong.whim)
+
+ほかのアプリと同じように、Play ストアからインストールしてください。更新は Google Play を通じて自動で届きます。
+
+## 📱 iPhone・iPad
+
+### ▶ [TestFlight で Whim のベータ版に参加する](https://testflight.apple.com/join/YhQ1yvev)
+
+iPhone・iPad 版の Whim は、Apple の **TestFlight** を通じた **ベータ版（試用版）** です。まず App Store から無料の **TestFlight** アプリをインストールし、それから上のリンクを開いて Whim を手に入れてください。新しいバージョンは TestFlight を通じて届きます。
+
+## 🍎 Mac
+
+### ▶ [TestFlight で Whim のベータ版に参加する](https://testflight.apple.com/join/YhQ1yvev)
+
+Mac 版の Whim も **TestFlight** での **ベータ版（試用版）** です。リンクは iPhone と同じです。お使いの Mac に **TestFlight** をインストールし、リンクを開いて Whim をインストールしてください。
+
+---
+
+## サインインする（どの端末でも共通）
+
+1. **Whim** を開きます。
+2. 職場で使っているアカウント（仕事用のメールアドレス、またはシングルサインオン）でサインインします。
+3. これで完了です。チームへメッセージを送る準備ができました。
+
+> **サインインのしかたや、どのワークスペースを使えばよいか分からないときは？** IT 担当者またはオフィスの管理者にお尋ねください。
+
+## 困ったときは？
 
 IT 担当者またはオフィスの管理者にご連絡いただくか、**[unikong.ai](https://unikong.ai)** をご覧ください。

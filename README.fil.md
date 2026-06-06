@@ -1,46 +1,47 @@
 **🌐**  [English](README.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · **Filipino** · [ភាសាខ្មែរ](README.km.md) · [ລາວ](README.lo.md) · [မြန်မာ](README.my.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-# Whim para sa Windows
+# I-download ang Whim
 
-Ang Whim ang ligtas na messaging app ng iyong team. Sa pahinang ito mo ito ida-download at iinstall sa Windows.
+Ang Whim ay ang ligtas na messaging app ng inyong team. Piliin ang inyong device sa ibaba para makuha ito.
 
 ---
 
-## Hakbang 1 — I-download
-
-Karamihan sa mga tao ay kailangan lang ng installer:
+## 🪟 Windows
 
 ### ▶ [I-download ang Whim para sa Windows](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
-> **Sa isang work computer na pinangangasiwaan ng IT team?** Maaaring mas gusto nila ang
-> [packaged na bersyon (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
-> para mai-install ito sa buong kompanya.
+> **Gumagamit ba kayo ng work computer na pinamamahalaan ng IT team?** Maaaring mas gusto nila ang [naka-package na bersyon (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi) para mai-install ito sa buong kompanya.
 
-## Hakbang 2 — I-install
+**Para i-install:** i-double click ang file na na-download ninyo. Kung magpapakita ang Windows ng asul na kahon na **"Windows protected your PC"** (Pinoprotektahan ng Windows ang inyong PC), i-click ang **More info** (Higit pang impormasyon), pagkatapos ay ang **Run anyway** (Patakbuhin pa rin). I-click ang **Yes** (Oo) kapag humingi ng pahintulot, pagkatapos ay sundin lang ang mga hakbang — kusang magbubukas ang Whim kapag tapos na, at kusa rin itong nag-a-update para laging napapanahon.
 
-1. I-double-click ang file na iyong na-download.
-2. Kung magpapakita ang Windows ng asul na kahon na **"Pinoprotektahan ng Windows ang iyong PC" ("Windows protected your PC")**, i-click ang **Higit pang impormasyon (More info)**, pagkatapos ay **Patakbuhin pa rin (Run anyway)**. (Normal lang ito para sa isang bagong-publish na app.)
-3. I-click ang **Oo (Yes)** kapag humingi ng pahintulot ang Windows.
-4. Sundin ang mga hakbang sa screen. Bubukas mismo ang Whim kapag tapos na.
+## 🤖 Android
 
-## Hakbang 3 — Mag-sign in at magsimula
+### ▶ [Kunin ang Whim sa Google Play](https://play.google.com/store/apps/details?id=com.unikong.whim)
 
-1. Buksan ang **Whim** mula sa iyong Start menu o sa shortcut sa desktop.
-2. Mag-sign in gamit ang account na ginagamit ng iyong lugar ng trabaho (ang iyong work email o single sign-on).
-3. Ayan na — handa ka nang mag-message sa iyong team.
+I-install ito tulad ng kahit anong app mula sa Play Store. Kusang darating ang mga update sa pamamagitan ng Google Play.
 
-> **Hindi sigurado kung paano mag-sign in, o kung aling workspace ang gagamitin?** Tanungin ang iyong IT o office administrator.
+## 📱 iPhone at iPad
+
+### ▶ [Sumali sa Whim beta sa TestFlight](https://testflight.apple.com/join/YhQ1yvev)
+
+Ang Whim para sa iPhone at iPad ay nasa **beta** (pagsubok na bersyon) sa pamamagitan ng **TestFlight** ng Apple. Una, i-install ang libreng **TestFlight** app mula sa App Store, pagkatapos ay buksan ang link sa itaas para makuha ang Whim. Darating ang mga bagong bersyon sa pamamagitan ng TestFlight.
+
+## 🍎 Mac
+
+### ▶ [Sumali sa Whim beta sa TestFlight](https://testflight.apple.com/join/YhQ1yvev)
+
+Ang Whim para sa Mac ay nasa **beta** (pagsubok na bersyon) din sa **TestFlight** — pareho lang sa link ng iPhone. I-install ang **TestFlight** sa inyong Mac, buksan ang link, at i-install ang Whim.
 
 ---
 
-## Pananatiling napapanahon
+## Pag-sign in (kahit anong device)
 
-Ina-update ng Whim ang sarili nito nang awtomatiko. Maaari ka ring mag-check anumang oras mula sa loob ng app: **Settings → Check for updates** (Mga Setting → Mag-check ng mga update).
+1. Buksan ang **Whim**.
+2. Mag-sign in gamit ang account na ginagamit ng inyong lugar ng trabaho (ang inyong work email o single sign-on).
+3. Ayan na — handa na kayong mag-message sa inyong team.
 
-## Pag-alis ng Whim
-
-Buksan ang Windows **Settings → Apps → Installed apps** (Mga Setting → Apps → Mga naka-install na app) (o **Add or remove programs** (Magdagdag o mag-alis ng mga program)), hanapin ang **Whim**, at piliin ang **Uninstall** (I-uninstall).
+> **Hindi sigurado kung paano mag-sign in, o kung aling workspace ang gagamitin?** Tanungin ang inyong IT o office administrator.
 
 ## Kailangan ng tulong?
 
-Makipag-ugnayan sa iyong IT o office administrator, o bisitahin ang **[unikong.ai](https://unikong.ai)**.
+Makipag-ugnayan sa inyong IT o office administrator, o bisitahin ang **[unikong.ai](https://unikong.ai)**.

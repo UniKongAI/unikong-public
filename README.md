@@ -1,45 +1,46 @@
 **🌐**  **English** · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Bahasa Indonesia](README.id.md) · [Bahasa Melayu](README.ms.md) · [Filipino](README.fil.md) · [ភាសាខ្មែរ](README.km.md) · [ລາວ](README.lo.md) · [မြန်မာ](README.my.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
 
-# Whim for Windows
+# Download Whim
 
-Whim is your team's secure messaging app. This page is where you download and install it on Windows.
+Whim is your team's secure messaging app. Choose your device below to get it.
 
 ---
 
-## Step 1 — Download
-
-Most people just need the installer:
+## 🪟 Windows
 
 ### ▶ [Download Whim for Windows](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim-setup.exe)
 
-> **On a work computer managed by an IT team?** They may prefer the
-> [packaged version (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi)
-> for installing across the whole company.
+> **On a work computer managed by an IT team?** They may prefer the [packaged version (.msi)](https://github.com/UniKongAI/unikong-public/releases/latest/download/whim.msi) for installing across the whole company.
 
-## Step 2 — Install
+**To install:** double-click the downloaded file. If Windows shows a blue **"Windows protected your PC"** box, click **More info**, then **Run anyway**. Click **Yes** when asked for permission, then follow the steps — Whim opens by itself when it's done, and keeps itself up to date automatically.
 
-1. Double-click the file you downloaded.
-2. If Windows shows a blue **"Windows protected your PC"** box, click **More info**, then **Run anyway**. (This is normal for a newly published app.)
-3. Click **Yes** when Windows asks for permission.
-4. Follow the on-screen steps. Whim opens by itself when it's finished.
+## 🤖 Android
 
-## Step 3 — Sign in and start
+### ▶ [Get Whim on Google Play](https://play.google.com/store/apps/details?id=com.unikong.whim)
 
-1. Open **Whim** from your Start menu or desktop shortcut.
+Install it like any other app from the Play Store. Updates arrive automatically through Google Play.
+
+## 📱 iPhone & iPad
+
+### ▶ [Join the Whim beta on TestFlight](https://testflight.apple.com/join/YhQ1yvev)
+
+Whim for iPhone and iPad is in **beta** through Apple's **TestFlight**. First install the free **TestFlight** app from the App Store, then open the link above to get Whim. New versions arrive through TestFlight.
+
+## 🍎 Mac
+
+### ▶ [Join the Whim beta on TestFlight](https://testflight.apple.com/join/YhQ1yvev)
+
+Whim for Mac is also in **beta** on **TestFlight** — the same link as iPhone. Install **TestFlight** on your Mac, open the link, and install Whim.
+
+---
+
+## Signing in (any device)
+
+1. Open **Whim**.
 2. Sign in with the account your workplace uses (your work email or single sign-on).
 3. That's it — you're ready to message your team.
 
 > **Not sure how to sign in, or which workspace to use?** Ask your IT or office administrator.
-
----
-
-## Staying up to date
-
-Whim updates itself automatically. You can also check any time from inside the app: **Settings → Check for updates**.
-
-## Removing Whim
-
-Open Windows **Settings → Apps → Installed apps** (or **Add or remove programs**), find **Whim**, and choose **Uninstall**.
 
 ## Need help?
 
